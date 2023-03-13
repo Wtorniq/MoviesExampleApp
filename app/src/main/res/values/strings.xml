@@ -1,0 +1,90 @@
+<resources>
+    <string name="app_name">MoviesExampleApp</string>
+    <string name="title">ПоискКино</string>
+    <string name="share">Поделиться</string>
+    <string name="my_films">Моё</string>
+    <string name="settings">Настройки</string>
+    <string name="action_previous">Предыдущее</string>
+    <string name="action_next">Следующий</string>
+    <string name="action_show_more">Показать подробнее</string>
+    <string name="type_text">Тип:</string>
+    <string name="genre_text">Жанр:</string>
+    <string name="year_text">Год выхода:</string>
+    <string name="country_text">Страна:</string>
+    <string name="from">С:</string>
+    <string name="to">По:</string>
+    <string name="button_accept">Принять</string>
+    <string name="same_film_text">Похожее:</string>
+    <string name="rating_text">Рейтинг:</string>
+    <string name="search">Поиск</string>
+    <string-array name="types">
+        <item>ALL</item>
+        <item>FILM</item>
+        <item>TV_SERIES</item>
+    </string-array>
+    <string-array name="genres">
+        <item>все</item>
+        <item>триллер</item>
+        <item>драма</item>
+        <item>комедия</item>
+        <item>криминал</item>
+        <item>мелодрама</item>
+        <item>детектив</item>
+        <item>фантастика</item>
+        <item>приключения</item>
+        <item>биография</item>
+        <item>боевик</item>
+        <item>фэнтези</item>
+        <item>ужасы</item>
+        <item>мультфильм</item>
+        <item>семейный</item>
+        <item>мюзикл</item>
+        <item>спорт</item>
+        <item>документальный</item>
+    </string-array>
+    <string-array name="countries">
+        <item>Все</item>
+        <item>США</item>
+        <item>Франция</item>
+        <item>Великобритания</item>
+        <item>СССР</item>
+        <item>Россия</item>
+        <item>Индия</item>
+        <item>Япония</item>
+        <item>Германия</item>
+        <item>Бразилия</item>
+        <item>Турция</item>
+        <item>Украина</item>
+        <item>Корея</item>
+
+    </string-array>
+    <string-array name="rating">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+    </string-array>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_wanted_list">Хочу посмотреть:</string>
+    <string name="title_viewed_list">Посмотренные:</string>
+    <string name="action_move_to_viewed">Переместить в \"Просмотренные\"</string>
+    <string name="action_move_to_wanted">Переместить в \"Хочу посмореть\"</string>
+    <string name="delete">Удалить</string>
+    <string name="floatDesc">\???</string>
+    <string name="snackbar_message_add_to_fav">Фильм добавлен в \"Хочу посмотреть\"</string>
+    <string name="defaultTextSettingsButton">Не выбрано</string>
+    <string name="title_activity_trailer">TrailerActivity</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="trailer_button">Смотреть трейлер</string>
+    <string name="rating_kinopoisk">Рейтинг Кинопоиска</string>
+    <string name="no_trailers">Трейлер не найден</string>
+</resources>
